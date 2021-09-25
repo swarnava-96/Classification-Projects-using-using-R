@@ -1,5 +1,5 @@
  ## College Admission Prediction using Logistic Regression
-```A simple binary classification project which predicts whether a student will get admitted to a college or not based on gpa and rank. I have used the dataset "binary.csv" which is also present in this repository. Logistic Regression was used for solving this problem statement after some amount of data munging. Model was validated based on confusion matrix and accuracy score.```
+```A simple binary classification project which predicts whether a student will get admitted to a college or not based on "gpa" and "rank". I have used the dataset "binary.csv" which is also present in this repository. Logistic Regression was used for solving this problem statement after some amount of data munging. Model was validated based on confusion matrix and accuracy score.```
 
 ![Screenshot (179)](https://user-images.githubusercontent.com/75041273/134591563-2a5677aa-6217-470e-ac0b-2e6380bafc43.png)
 
